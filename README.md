@@ -1,4 +1,4 @@
-# 🕸️ SocialGraph — Red Social con Grafos en C
+# 🕸️ BisonteBook — Red Social con Grafos en C
 
 <div align="center">
 
