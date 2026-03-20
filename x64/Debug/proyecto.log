@@ -1,0 +1,5 @@
+﻿  proyecto.cpp
+C:\Users\sjare\OneDrive\Escritorio\RED-GRAFOS\proyecto\proyecto.cpp(79,10): warning C4101: 'entrada': variable local sin referencia
+C:\Users\sjare\OneDrive\Escritorio\RED-GRAFOS\proyecto\proyecto.cpp(77,24): warning C4101: 'contrasena': variable local sin referencia
+C:\Users\sjare\OneDrive\Escritorio\RED-GRAFOS\proyecto\proyecto.cpp(507,24): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  proyecto.vcxproj -> C:\Users\sjare\OneDrive\Escritorio\RED-GRAFOS\proyecto\x64\Debug\proyecto.exe
